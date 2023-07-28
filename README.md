@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Another notes
-You can train yourself to use API here, especially for beginner. SO lets having fun, and do coding everyday.
+You can train yourself to use API here, especially for beginner. SO lets having fun, and do coding everyday. Dont forget to get your coffe
 
 ## Available Scripts
 
