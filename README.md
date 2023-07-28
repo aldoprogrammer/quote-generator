@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You can train yourself to use API here, especially for beginner. SO lets having fun, and do coding everyday. Dont forget to get your coffee,, so it will boost your coding skill.s
+You can train yourself to use API here, especially for beginner. SO lets having fun, and do coding everyday. Dont forget to get your coffee,, so it will boost your coding skill.s, and relax your mind.
 
 ## Available Scripts
 
